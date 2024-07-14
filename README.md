@@ -22,8 +22,8 @@ This repository provides comprehensive solutions to practice problems covering t
 
 The repository is organized with a folder for each topic, containing Python files for each problem solution:
 
-* **Type Conversion:** `type_conversion/problem_1.py`, `type_conversion/problem_2.py`, etc.
-* **Print Operations:** `print_operations/problem_1.py`, `print_operations/problem_2.py`, etc.
+* **Type Conversion:** `TYPE-QUE1.py`, `TYPE-QUE2.py`, etc.
+* **Print Operations:** `PRINT-QUE1.py`, `PRINT-QUE2.py`, etc.
 * **... and so on for other categories.**
 
 ## Usage
@@ -33,4 +33,4 @@ The repository is organized with a folder for each topic, containing Python file
 1. **Requirements:** Ensure that you have Python installed on your system.
 2. **Run the script:** Execute the `generate_solutions.py` script from your terminal:
    ```bash
-   python generate_solutions.py
+   python TYPE-QUE(Num).py
